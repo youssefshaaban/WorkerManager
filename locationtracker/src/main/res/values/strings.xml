@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">LocationTracker</string>
+  <string name="location_alert">I need location to process</string>
+  <string name="accept">Accept</string>
+  <string name="deny">Deny</string>
+  <string name="location_denied">Location is denied</string>
+  <string name="enable">enable</string>
+  <string name="enableLocation">enable your location</string>
+  <string name="location_not_enable"></string>
+  <string name="noti_channel_default">ntify</string>
+</resources>
