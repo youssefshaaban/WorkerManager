@@ -1,3 +1,3 @@
 # WorkerManager
 # Track location Using Schedule periodic work
-- Notify every 15 minitues new loction 
+- Notify with long&lat every 15 minitues new loction 
